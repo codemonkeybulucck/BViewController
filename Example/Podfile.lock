@@ -1,0 +1,16 @@
+PODS:
+  - BViewController (0.1.0)
+
+DEPENDENCIES:
+  - BViewController (from `../`)
+
+EXTERNAL SOURCES:
+  BViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BViewController: 5aa1c8f9d47144e3e96000e8de290faabdb0e420
+
+PODFILE CHECKSUM: d38dd27dca0de96845515708bea229d2af8a81ff
+
+COCOAPODS: 1.5.3
